@@ -17,7 +17,7 @@ q "**What are Joel's last words in the first game?**"
 a "I swear"
 
 q "**What rebel group based out of New Mexico consisted of disgruntled FEDRA deserters who styled themselves as defenders of the Consitution?**"
-a "Ravens", "The Ravens"
+a "The Ravens", "Ravens"
 
 q "**No pun intended: Volume Too is authored by who?**"
 a "Will Livingston"
