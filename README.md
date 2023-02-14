@@ -31,7 +31,7 @@ a "2019"
 q "**What character is given the moniker "Apostate" by the scars for violating their traditions?**"
 a "Lev"
 
-q "**What artist to Joel and Ellie listen to on the way to Pittsburgh?**"
+q "**What artist do Joel and Ellie listen to on the way to Pittsburgh?**"
 a "Hank Williams"
 
 q "**What is the fourth weapon you unlock in the main game?**"
@@ -41,7 +41,7 @@ q "**What is Joel's birthdate?**"
 a "September 26th", "September 26", "sept 26"
 
 q "**What is Ellie's mothers name?**"
-a "Anne"
+a "Anna"
 
 q "**What sport did Sarah play?**"
 a "Soccer"  
@@ -52,10 +52,10 @@ a "El Diablo"
 q "**Who is the second character the player takes control of in the first game?**"
 a "Joel", "Joel Miller"
 
-q "**What is Riley Abel's security numer as presented on her pendant?**"
+q "**What is Riley Abel's security number as presented on her pendant?**"
 a "000128"
 
-q "**Who said it: 'As dangerous as those things are, at least they're predictable. It's the normal people that scare me.'**"
+q "**Who said it: 'As dangerous as those things are, at least they're predictable. It's the normal people that scare me.' **"
 a "Bill"
 
 q "**What was Joel's job pre-apocalypse?**"
