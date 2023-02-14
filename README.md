@@ -32,7 +32,7 @@ q "**What character is given the moniker "Apostate" by the scars for violating t
 a "Lev"
 
 q "**What artist to Joel and Ellie listen to on the way to Pittsburgh?**"
-a "Hank WIlliams"
+a "Hank Williams"
 
 q "**What is the fourth weapon you unlock in the main game?**"
 a "Bow", "Bow and Arrow" 
@@ -81,9 +81,6 @@ a "Robert"
 
 q "**Who is the unstoppable, claw wielding, yet drop dead gorgeous character Ellie plays as in "The Turning" with Riley?**"
 a "Angel Knives"
-
-q "**What is the name of David's right hand man who is hesitant to offer assistance to Ellie when coming across her in the woods?**"
-a "James"
 
 q "**How many comic collectibles are obtainable in TLOU part 1?**"
 a "14", "fourteen"
