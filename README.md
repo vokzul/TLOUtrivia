@@ -10,7 +10,7 @@ a "David"
 q "**Henry and Sam are from a quarantine zone in what city?**"
 a "Hartford"
 
-q "**Finish the quote:** 'Once upon a time I had someone I cared about. It was a partner. Somebody I had to look after. And in this world that sort of shit's good for one thing:' **"
+q "**Finish the quote:** 'Once upon a time I had someone I cared about. It was a partner. Somebody I had to look after. And in this world that sort of shit's good for one thing:'**"
 a "getting you killed", "gettin ya killed", "gettin you killed"
 
 q "**What are Joel's last words in the first game?**"
